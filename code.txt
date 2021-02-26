@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html>
-<Head>
-    <meta charset="utf-8" />
-    <title>Paste Records</title>
-    <meta name="description" content="official website of Paste Records">
-
-    <link rel="stylesheet" href="styles.index.css">
-
-    <script src="https://kit.fontawesome.com/6596ea992f.js" crossorigin="anonymous"></script>
-
-</Head>
-<body>
-    <header>
-        <div class="fancy-link">
-
-           <a href="artists.html">Artists</a>
-       
-        </div>
-        
-        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
@@ -31,37 +11,10 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
 <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 <link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
-<meta name="application-name" content="Paste Records"/>
+<meta name="application-name" content="&nbsp;"/>
 <meta name="msapplication-TileColor" content="#FFFFFF" />
 <meta name="msapplication-TileImage" content="mstile-144x144.png" />
 <meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
 <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
 <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
-
-    </header>
-    
-    
-    <footer>
-
-        <div class="socials">
-            <a href="https://www.facebook.com/Paste-Records-104073114995848"><i class="fab fa-facebook-f"></i>
-             </a>
-            <a href="https://www.instagram.com/paste.records/"><i class="fab fa-instagram"></i> 
-            </a>
-            <a href="#"><i class="fab fa-spotify"></i>
-            </a>
-            <a href="#"><i class="fab fa-soundcloud"></i>
-            </a>
-            <a href="https://youtube.com/playlist?list=PLPU6XceaWA0bPAgGEDa4uyYw8bZ2Rz5zX"><i class="fab fa-youtube"></i>
-            </a>
-            <a href="Info.html"><i class="fas fa-user-alt"></i>
-            </a>
-        </div>
-
-    
-    </footer>
-</body>
-
-    
-</html>
