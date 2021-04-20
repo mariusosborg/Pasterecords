@@ -76,7 +76,7 @@ button:hover {
 .Col{
     box-sizing: border-box;
     padding-left: 150px;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .col::after {
