@@ -78,6 +78,7 @@ button:hover {
     border-radius: 50%;
     width: 300px;
     height: 300px;
+    border-style: solid;
 }
 
 .box h1{
